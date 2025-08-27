@@ -1,6 +1,8 @@
 {
     "id": "thoramc",
     "name": "ThoraMC",
+    "website": "https://thoramc.it/",
+    "store": "https://store.thoramc.it/",
     "addresses": [
         "thoramc.it"
     ],
@@ -21,9 +23,12 @@
         "it"
     ],
     "gameTypes": [
-        "Skyblock"
+        "Skyblock",
+        "Survival",
+        "PvP"
     ],
     "socials": {
+        "youtube": "ThoraMC",
         "discord": "https://discord.gg/6S8m9dHufs"
     }
 }
